@@ -16,11 +16,9 @@ public class Fatorial {
         // Sets ERROR-only logging
         Logger.getLogger("org").setLevel(Level.ERROR);
         // habilita o uso de 2 threads
-        SparkConf conf = new SparkConf().setAppName("numberSum").setMaster("local[*]");
+        SparkConf conf = new SparkConf().setAppName("factorial").setMaster("local[*]");
         // cria o contexto da aplicacao
         JavaSparkContext sc = new JavaSparkContext(conf);
-
-
 
 
     }

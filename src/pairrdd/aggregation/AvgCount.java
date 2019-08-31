@@ -1,7 +1,6 @@
 package pairrdd.aggregation;
 
+import java.io.Serializable;
 
-public class AvgCount {
-
-
+public class AvgCount implements Serializable {
 }

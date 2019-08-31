@@ -24,5 +24,4 @@ public class FilterPairRDD {
         JavaSparkContext sc = new JavaSparkContext(conf);
 
     }
-
 }

@@ -15,10 +15,9 @@ public class HelloWorld {
     public static void main(String args[]){
         Logger.getLogger("org").setLevel(Level.ERROR);
         // habilita o uso de 2 threads
-        SparkConf conf = new SparkConf().setAppName("wordCount").setMaster("local[2]");
+        SparkConf conf = new SparkConf().setAppName("wordCount").setMaster("local[*]");
         // cria o contexto da aplicacao
         JavaSparkContext sc = new JavaSparkContext(conf);
-
 
     }
 }

@@ -19,6 +19,5 @@ public class CreatingFromTuple {
         // cria o contexto da aplicacao
         JavaSparkContext sc = new JavaSparkContext(conf);
 
-
     }
 }
