@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da85680-ebdf-4bc9-b5d7-c45b2887e019" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/rdd/math/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/math/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/DatasetRDDConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/DatasetRDDConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/HousePriceSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/HousePriceSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/StackOverFlowSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/StackOverFlowSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/StronglyTypedStackOverflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/StronglyTypedStackOverflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/UKPostCodeJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/UKPostCodeJoin.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +138,8 @@
       <workItem from="1561512976815" duration="540000" />
       <workItem from="1567211618080" duration="5000" />
       <workItem from="1567211673538" duration="669000" />
-      <workItem from="1569335462589" duration="55000" />
+      <workItem from="1569335462589" duration="189000" />
+      <workItem from="1572452908178" duration="22000" />
     </task>
     <servers />
   </component>

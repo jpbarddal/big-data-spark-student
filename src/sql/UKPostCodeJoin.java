@@ -17,5 +17,8 @@ public class UKPostCodeJoin {
         // inicializando sessao com duas threads
         SparkSession session = SparkSession.builder().appName("ukpostcode").master("local[2]").getOrCreate();
 
+        // parando a sessão
+        session.stop();
+
     }
 }

@@ -15,6 +15,9 @@ public class StackOverFlowSQL {
         // inicializando sessao com duas threads
         SparkSession session = SparkSession.builder().appName("stackoverflow").master("local[2]").getOrCreate();
 
+        // parando a sessão
+        session.stop();
+
     }
 
 }
